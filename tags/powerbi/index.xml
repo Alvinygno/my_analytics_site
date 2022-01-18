@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>powerbi on Welcome to My Analytics site</title>
+    <link>/tags/powerbi/</link>
+    <description>Recent content in powerbi on Welcome to My Analytics site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2021 10:58:08 -0400</lastBuildDate><atom:link href="/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI Interactive Dashboard</title>
+      <link>/post/chapter-1/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>/post/chapter-1/</guid>
+      <description>This is a dashboard that I build to demonstrate my use of business intelligence skills in my daily job. To access the dashboard file, please click this link https://github.com/Alvinygno/Dashboards_BI/blob/main/Dashboard_AY_v2.pbix
+The sales, product and customer dashboard was customised for executives to be used in car accessories business. The dashboard allows the executives to view their monthly sales, monthly return and monthly revenue, top sales product, top profitable product, most frequent customer. KPI gauges are displayed to compare current and previous performance.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>share_price on Welcome to My Analytics site</title>
+    <link>/tags/share_price/</link>
+    <description>Recent content in share_price on Welcome to My Analytics site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jan 2022 11:00:59 -0400</lastBuildDate><atom:link href="/tags/share_price/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Share Price Movement</title>
+      <link>/post/chapter-6/</link>
+      <pubDate>Sat, 15 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-6/</guid>
+      <description>In this demostation we have used Apple (AAPL), Facebook (FB) and Microsoft (MSFT) share price between 2019 to 2022. The raw data is obtained through web scrapping using Python programming.
+Then, the data is used as an input to Power BI to visualize the share price movement.
+All the share price faced a deep decreased due to the surge of Covid-19 cases in the USA. However, all the share price climped up generally due to market sentiment that IT companies with fundamentally strong will not badly affect from the Covid-19 cases and government policy.</description>
+    </item>
+    
+  </channel>
+</rss>

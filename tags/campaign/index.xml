@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>campaign on Welcome to My Analytics site</title>
+    <link>/tags/campaign/</link>
+    <description>Recent content in campaign on Welcome to My Analytics site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="/tags/campaign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Campaign Dashboard</title>
+      <link>/post/chapter-5/</link>
+      <pubDate>Wed, 28 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-5/</guid>
+      <description>The dashboard display the relationship between the type of promotional campaign held by the company and its sales performance throughout the year 2017.
+Some points that worth for the company to investigate:
+ Should management organise similar campaign that can improve the daily sales during holiday or special festival seasons in the future?   Interactive Covid-19 Dashboard   Does the campaigns held by the company are too confusing or not actrative to the customers that led to poor sales in these 2 periods?</description>
+    </item>
+    
+  </channel>
+</rss>

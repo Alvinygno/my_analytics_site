@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>covid19 on Welcome to My Analytics site</title>
+    <link>/tags/covid19/</link>
+    <description>Recent content in covid19 on Welcome to My Analytics site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jul 2021 11:00:59 -0400</lastBuildDate><atom:link href="/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Covid-19 Dashboard</title>
+      <link>/post/chapter-3/</link>
+      <pubDate>Mon, 26 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-3/</guid>
+      <description>This is the Covid-19 dashboard. The data is extracted from Worldometers as at 26 July 2021, 2pm Malaysia time.
+This interactive dashboard will display the Total cases, Active cases, Total death, Total recovered and Serious cases of Covid-19 worldwide.
+The information projected from the dashboard can use as awarness to citizen and travelers of the seriousness of Covid-19 cases in respective country.
+This dashboard can be further enhanced with additional data if it is available for public.</description>
+    </item>
+    
+  </channel>
+</rss>

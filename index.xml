@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Welcome to My Analytics site</title>
+    <link>/</link>
+    <description>Recent content in Data Science Portfolio on Welcome to My Analytics site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jan 2022 11:00:59 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Share Price Movement</title>
+      <link>/post/chapter-6/</link>
+      <pubDate>Sat, 15 Jan 2022 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-6/</guid>
+      <description>In this demostation we have used Apple (AAPL), Facebook (FB) and Microsoft (MSFT) share price between 2019 to 2022. The raw data is obtained through web scrapping using Python programming.
+Then, the data is used as an input to Power BI to visualize the share price movement.
+All the share price faced a deep decreased due to the surge of Covid-19 cases in the USA. However, all the share price climped up generally due to market sentiment that IT companies with fundamentally strong will not badly affect from the Covid-19 cases and government policy.</description>
+    </item>
+    
+    <item>
+      <title>Campaign Dashboard</title>
+      <link>/post/chapter-5/</link>
+      <pubDate>Wed, 28 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-5/</guid>
+      <description>The dashboard display the relationship between the type of promotional campaign held by the company and its sales performance throughout the year 2017.
+Some points that worth for the company to investigate:
+ Should management organise similar campaign that can improve the daily sales during holiday or special festival seasons in the future?   Interactive Covid-19 Dashboard   Does the campaigns held by the company are too confusing or not actrative to the customers that led to poor sales in these 2 periods?</description>
+    </item>
+    
+    <item>
+      <title>Customer and Potential Customer Dashboard</title>
+      <link>/post/chapter-4/</link>
+      <pubDate>Tue, 27 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-4/</guid>
+      <description>The first dashboard is showing the sales performance of each product category, USA customers origin, their age group and gender.
+ Dashboard 1 - Customer Dashboard   This dashboard allow management to drill down from product and customer aspect to understand their relationship. Here are some example of the insights that we can get from this dashboard:
+What is the total sales average sales and number of customers from specific part of USA?</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Dashboard</title>
+      <link>/post/chapter-3/</link>
+      <pubDate>Mon, 26 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>/post/chapter-3/</guid>
+      <description>This is the Covid-19 dashboard. The data is extracted from Worldometers as at 26 July 2021, 2pm Malaysia time.
+This interactive dashboard will display the Total cases, Active cases, Total death, Total recovered and Serious cases of Covid-19 worldwide.
+The information projected from the dashboard can use as awarness to citizen and travelers of the seriousness of Covid-19 cases in respective country.
+This dashboard can be further enhanced with additional data if it is available for public.</description>
+    </item>
+    
+    <item>
+      <title>Power BI Interactive Dashboard</title>
+      <link>/post/chapter-1/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>/post/chapter-1/</guid>
+      <description>This is a dashboard that I build to demonstrate my use of business intelligence skills in my daily job. To access the dashboard file, please click this link https://github.com/Alvinygno/Dashboards_BI/blob/main/Dashboard_AY_v2.pbix
+The sales, product and customer dashboard was customised for executives to be used in car accessories business. The dashboard allows the executives to view their monthly sales, monthly return and monthly revenue, top sales product, top profitable product, most frequent customer. KPI gauges are displayed to compare current and previous performance.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>You can reach out to me through your organization or personal email.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
